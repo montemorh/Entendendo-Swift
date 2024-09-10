@@ -11,3 +11,7 @@
 ## Controle de Fluxo com loopings
 
 [Exercicio 03](https://github.com/montemorh/Entendendo-Swift/blob/9f55bc43bafb96ed81190972be611e864327a673/MyPlayground.playground/Pages/Aula%2003.xcplaygroundpage/Contents.swift)
+
+## Funcoes e Opcionais
+
+[Exercicio 04](https://github.com/montemorh/Entendendo-Swift/blob/86be16858d101ec89dcee87faa3de9a76e810440/MyPlayground.playground/Pages/Aula%2004.xcplaygroundpage/Contents.swift)
